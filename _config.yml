@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Nick Randall
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: nicksrandall@gmail.com
+description: "Web Tech thoughts by Nick Randall!"
+baseurl: ""
+url: "http://nicksrandall.github.io"
+twitter_username: nicksrandall
+github_username:  nicksrandall
+facebook_username:  nick.randall
 
 # Build settings
 markdown: kramdown
